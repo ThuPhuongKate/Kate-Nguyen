@@ -17,7 +17,7 @@
 I am a technology-driven leader with a passion for data and finance. With a strong foundation in Finance, Business Administration, and Data Analytics, I bring over seven years of hands-on experience as an individual investor in the Vietnamese stock market, along with over a year of experience as an Investment Banking Analyst.
 
 ### ♥️ Education
-I have just graduated Northeastern University with a Master of Science in Commerce and Economic Development, concentrating in Data Analytics. Currently, I am doing full-time researching in Bitcoin data with my team at NEU '''__Huskies__''.
+I have just graduated Northeastern University with a Master of Science in Commerce and Economic Development, concentrating in Data Analytics. Currently, I am doing full-time researching in Bitcoin data with my team at NEU '''__Huskies__'''.
 
 ### ♥️ Upcoming Projects
 Here is my place to share the upcoming projects 🔥. Hang on there, and I will update my projects soon.
